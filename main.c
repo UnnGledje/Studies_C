@@ -54,7 +54,6 @@ static void show_menu(char matrix[TOTAL_NR_OF_ROWS][TOTAL_NR_OF_COLUMNS], int ro
 
 int main(int argc, char const *argv[])
 {
-
 static char matrix[TOTAL_NR_OF_ROWS][TOTAL_NR_OF_COLUMNS];
     
     // If argument counter is less than 3, giving error.
